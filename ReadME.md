@@ -7,7 +7,7 @@ This a simple Discord-RPC code for your discord profile.
 **npm install discord-rpc**
 ---
 ``` FILL OUT THE TEXT ```
-**Change the text in the index file, help is found there too.**
+**Change text in index.js**
 ---
 ``` RUN IT ```
 **node .**
