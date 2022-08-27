@@ -1,14 +1,7 @@
-This a simple Discord-RPC code for your discord profile.
+## [discord-rpc](https://github.com/ScoobyDoo1337/Discord-RPC)
 
-``` SETUP ```
-**How to setup**
----
-``` INSTALL DISCORD-RPC ```
-**npm install discord-rpc**
----
-``` FILL OUT THE TEXT ```
-**Change text in index.js**
----
-``` RUN IT ```
-**node .**
----
+a simple discord-rpc for ur discord profile
+
+## how to run
+
+- <kbd>npm</kbd>rum<kbd>dev</kbd> starts bot
